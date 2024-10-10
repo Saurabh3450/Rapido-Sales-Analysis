@@ -74,14 +74,30 @@ The dashboard is organized into several key s:
 ## Conclusion
 This project delivers a comprehensive sales analysis of Rapido's services, providing insights into customer behavior, identifying growth opportunities, and optimizing operations across transportation modes. The interactive Power BI dashboard allows users to explore data and make informed, data-driven decisions based on real-time insights.
 
+
+
+# Snapshots of Power BI Dashboard
+![HOME](https://github.com/user-attachments/assets/fd20ba67-a27b-41d6-bd9d-6e0176d2ac49)
+
 ---
 
-
-## Snapshots of Power BI Dashboard
-![HOME](https://github.com/user-attachments/assets/fd20ba67-a27b-41d6-bd9d-6e0176d2ac49)
 ![OVERVIEW](https://github.com/user-attachments/assets/e3c59095-c7b9-412a-b55b-5dcae49f6045)
+
+---
 ![BIKE](https://github.com/user-attachments/assets/41c6a391-9a7c-4390-a1c2-d676d189f5ea)
+
+---
 ![BIKE LITE](https://github.com/user-attachments/assets/61953fcd-7bb9-4cd1-a691-8c9c84806f4e)
+
+---
 ![AUTO](https://github.com/user-attachments/assets/9cc8c6b7-b65d-448d-aa54-27e13b07676e)
+
+---
+
 ![TAXI](https://github.com/user-attachments/assets/1a68cd1e-d20f-4d4e-b70f-ebd6bfd6c21a)
+
+---
+
 ![PARCEL](https://github.com/user-attachments/assets/12090d32-b20e-4ec5-aedf-4ab0219738ef)
+
+---
